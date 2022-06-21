@@ -11,7 +11,9 @@ namespace gitdemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
-            Console.WriteLine("NIkhitha");
+            Console.WriteLine("To Cognine");
+            Console.WriteLine("Nikhitha");
+
         }
     }
 }
